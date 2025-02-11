@@ -1,4 +1,4 @@
-# Linux-Cheatsheet
+# Linux-Cheatsheets
 
 ### Operations Deployment (25%)
 
